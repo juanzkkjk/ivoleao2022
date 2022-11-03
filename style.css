@@ -1,0 +1,66 @@
+body {
+    background: #e0dfe0;
+    background: -moz-linear-gradient(topo, #e3e1e4 0%, #e5e2e9 50%, #ebe8ee 100%);
+    background: -webkit-linear-gradient(topo, #f0edf3 0%, hsl(0, 0%, 95%) 50%, #e7e7e7 100%);
+    background: linear-gradient(to right, #edebf0 0%, #f7f5f8 50%, #e5e1e6 100%);
+}
+
+/*NAVEGAÇÃO ENTRE PAGINAS*/
+.navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: sticky;
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(119, 139, 111);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+nav a:hover {
+    color: rgb(104, 119, 94);
+    text-decoration: underline;
+}
+
+/*HOME*/
+
+ {
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
+    width: 100%;
+}
+
+.Principal {
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    letter-spacing: 3.6px;
+    word-spacing: 0px;
+    color: rgb(27, 212, 83);
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase
+}
+
+.Qualidades {
+    padding: 20px;
+    font-size: 20px;
+}
