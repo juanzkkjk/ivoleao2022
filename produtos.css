@@ -37,7 +37,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: rgb(7, 68, 35);
+    color: rgb(56, 48, 12);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -45,7 +45,7 @@ nav a {
 
 nav a:hover {
 
-    color: #0a6d28;
+    color: #47320a;
 }
 
 .produtos {
@@ -61,14 +61,14 @@ nav a:hover {
     margin: 0 1.0%;
     padding: 30px 4px;
     box-sizing: border-box;
-    border-color: #0e9b49;
+    border-color: #754014;
     border-width: 2px;
     border-style: solid;
     border-radius: 13px;
 }
 
 .produtos li:hover {
-    border-color: #e6f143;
+    border-color: #000000;
 
 }
 
@@ -80,7 +80,7 @@ nav a:hover {
     font-family: serif;
     letter-spacing: 0px;
     word-spacing: 0px;
-    color: rgb(4, 78, 7);
+    color: rgb(1, 2, 1);
     font-weight: 400;
     text-decoration: none;
     font-style: normal;
