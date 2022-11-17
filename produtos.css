@@ -1,5 +1,5 @@
 header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(223, 214, 208, 0.95); 
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(0, 0, 0, 0.95); 
     box-shadow: 2px 2px 34px 3px rgba(65, 41, 6, 0.95);
     background: #2e1d04;
     padding: 20px;
@@ -12,7 +12,7 @@ body {
     background: #331b05;
     background: -moz-linear-gradient(topo, #462f06 0%, #422605 50%, #000000 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #492e1c 0%, #472c15 50%, #533713 100%);
+    background: linear-gradient(to right, #f8f7f6 0%, #726d68 50%, #a79c8f 100%);
 
 }
 
@@ -37,7 +37,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: rgb(56, 48, 12);
+    color: rgb(236, 234, 222);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
