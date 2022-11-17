@@ -5,7 +5,7 @@ header {
     padding: 20px;
     background: -moz-linear-gradient(topo, #000000 0%, #000000 50%, #745959 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #000000 0%, #000000 50%, #220d01 100%);
+    background: linear-gradient(to right, #220201 0%, #000000 50%, #220d01 100%);
 }
 
 body {
