@@ -5,7 +5,7 @@ header {
     padding: 20px;
     background: -moz-linear-gradient(topo, #000000 0%, #000000 50%, #745959 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #000000 0%, #000000 50%, #251505 100%);
+    background: linear-gradient(to right, #000000 0%, #25180a 50%, #000000 100%);
 }
 
 body {
@@ -45,7 +45,7 @@ nav a {
 
 nav a:hover {
 
-    color: #e2d40f;
+    color: #6e6918;
 }
 
 .produtos {
