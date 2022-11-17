@@ -12,7 +12,7 @@ body {
     background: #331b05;
     background: -moz-linear-gradient(topo, #462f06 0%, #422605 50%, #000000 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #75583b 0%, #e0dedb 50%, #4d3f2b 100%);
+    background: linear-gradient(to right, #fffefe 0%, #685942 50%, #fffffe 100%);
 
 }
 
@@ -45,7 +45,7 @@ nav a {
 
 nav a:hover {
 
-    color: #47320a;
+    color: #e2d40f;
 }
 
 .produtos {
