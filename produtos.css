@@ -5,14 +5,14 @@ header {
     padding: 20px;
     background: -moz-linear-gradient(topo, #000000 0%, #000000 50%, #745959 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #000000 0%, #130c05 50%, #000000 100%);
+    background: linear-gradient(to right, #241304 0%, #000000 50%, #251505 100%);
 }
 
 body {
     background: #331b05;
     background: -moz-linear-gradient(topo, #462f06 0%, #422605 50%, #000000 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #f8f7f6 0%, #795837 50%, #f7f7f7 100%);
+    background: linear-gradient(to right, #75583b 0%, #e0dedb 50%, #4d3f2b 100%);
 
 }
 
