@@ -1,16 +1,16 @@
 header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(253, 253, 253, 0.95); 
-    box-shadow: 2px 2px 34px 3px rgba(255, 255, 255, 0.95);
-    background: #208a2e;
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(0, 0, 0, 0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(5, 1, 1, 0.95);
+    background: #051107;
     padding: 20px;
-    background: -moz-linear-gradient(topo, #ffffff 0%, #f2eff3 50%, #e7e7e7 100%);
+    background: -moz-linear-gradient(topo, #000000 0%, #000000 50%, #745959 100%);
     background: -webkit-linear-gradient(topo, #ece9ec 0%, #eeecee 50%, #e4dde3 100%);
     background: linear-gradient(to right, #eeeaee 0%, #f3f1f3 50%, #f6f4f7 100%);
 }
 
 body {
-    background: #17a747;
-    background: -moz-linear-gradient(topo, #fdf7fd 0%, #fcfbfc 50%, #f8f1f8 100%);
+    background: #020503;
+    background: -moz-linear-gradient(topo, #000000 0%, #fcfbfc 50%, #f8f1f8 100%);
     background: -webkit-linear-gradient(topo, #fffdff 0%, #fdfbfd 50%, #e9e2eb 100%);
     background: linear-gradient(to right, #fcfbfc 0%, #ffffff 50%, #fefeff 100%);
 
@@ -61,7 +61,7 @@ nav a:hover {
     margin: 0 1.0%;
     padding: 30px 4px;
     box-sizing: border-box;
-    border-color: #754014;
+    border-color: #000000;
     border-width: 2px;
     border-style: solid;
     border-radius: 13px;
