@@ -1,18 +1,18 @@
 header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(0, 0, 0, 0.95); 
-    box-shadow: 2px 2px 34px 3px rgba(5, 1, 1, 0.95);
-    background: #051107;
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(58, 27, 9, 0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(65, 41, 6, 0.95);
+    background: #2e1d04;
     padding: 20px;
     background: -moz-linear-gradient(topo, #000000 0%, #000000 50%, #745959 100%);
-    background: -webkit-linear-gradient(topo, #ece9ec 0%, #eeecee 50%, #e4dde3 100%);
-    background: linear-gradient(to right, #eeeaee 0%, #f3f1f3 50%, #f6f4f7 100%);
+    background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
+    background: linear-gradient(to right, #000000 0%, #000000 50%, #000000 100%);
 }
 
 body {
-    background: #020503;
-    background: -moz-linear-gradient(topo, #000000 0%, #fcfbfc 50%, #f8f1f8 100%);
-    background: -webkit-linear-gradient(topo, #fffdff 0%, #fdfbfd 50%, #e9e2eb 100%);
-    background: linear-gradient(to right, #fcfbfc 0%, #ffffff 50%, #fefeff 100%);
+    background: #331b05;
+    background: -moz-linear-gradient(topo, #462f06 0%, #422605 50%, #000000 100%);
+    background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
+    background: linear-gradient(to right, #000000 0%, #000000 50%, #000000 100%);
 
 }
 
