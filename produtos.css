@@ -1,5 +1,5 @@
 header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(58, 27, 9, 0.95); 
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(223, 214, 208, 0.95); 
     box-shadow: 2px 2px 34px 3px rgba(65, 41, 6, 0.95);
     background: #2e1d04;
     padding: 20px;
@@ -12,7 +12,7 @@ body {
     background: #331b05;
     background: -moz-linear-gradient(topo, #462f06 0%, #422605 50%, #000000 100%);
     background: -webkit-linear-gradient(topo, #000000 0%, #000000 50%, #000000 100%);
-    background: linear-gradient(to right, #e6e3e3 0%, #dddddd 50%, #fffbfb 100%);
+    background: linear-gradient(to right, #492e1c 0%, #472c15 50%, #533713 100%);
 
 }
 
