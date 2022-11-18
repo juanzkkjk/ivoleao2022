@@ -4,8 +4,8 @@
 }
 
 header {
-    background: #0102019d;
-    padding: 20px 0;
+    background: #0000009d;
+    padding: 40px 0;
 }
 
 .caixa {
@@ -35,7 +35,7 @@ nav li {
  }
 
 nav a:hover {
-    color: rgb(7, 3, 3);
+    color: rgb(78, 69, 19);
     text-decoration: underline;
 }
 
