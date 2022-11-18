@@ -4,7 +4,7 @@
 }
 
 header {
-    background: #0655069d;
+    background: #060f069d;
     padding: 20px 0;
 }
 
@@ -35,7 +35,7 @@ nav li {
  }
 
 nav a:hover {
-    color: rgb(126, 73, 13);
+    color: rgb(59, 36, 9);
     text-decoration: underline;
 }
 
@@ -99,7 +99,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-color: rgb(252, 190, 97);
+    background-color: rgb(58, 39, 9);
     padding: 10px 0;
  }
 
