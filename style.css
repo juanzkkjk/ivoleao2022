@@ -10,7 +10,7 @@ body {
   }
   
   header {
-      background: rgb(247, 123, 123);
+      background: rgb(7, 6, 6);
       padding: 20px 0;
   }
   
@@ -41,7 +41,7 @@ body {
    }
   
   nav a:hover {
-      color: rgb(255, 136, 0);
+      color: rgb(5, 21, 90);
       text-decoration: underline;
   }
   
@@ -64,11 +64,11 @@ body {
    }
   
    .produtos li:hover {
-      border-color: rgb(255, 136, 0);
+      border-color: rgb(119, 77, 29);
    }
   
   .produtos li:active {
-      border-color: rgb(9, 160, 9);
+      border-color: rgb(2, 8, 2);
   }
   
   .produtos li:hover h2 {
@@ -99,7 +99,7 @@ body {
   
    footer {
       text-align: center;
-      background: rgb(111, 245, 183);
+      background: rgb(3, 10, 7);
       padding: 10px 0;
    }
   
@@ -138,7 +138,7 @@ body {
   .enviar {
     width: 40%;
     padding: 15px 0;
-    background: rgb(255, 115, 0);
+    background: rgb(21, 2, 73);
     color: rgb(252, 252, 252);
     font-weight: bold;
     font-size: 18px;
@@ -149,7 +149,7 @@ body {
   }
   
   .enviar:hover {
-    background: rgb(1, 163, 1);
+    background: rgb(125, 146, 125);
     transform: rotate(360deg) scale(1.2);
   }
   
@@ -160,7 +160,7 @@ body {
   }
   
   thead {
-    background: royalblue;
+    background: rgb(61, 40, 8);
     color: black;
     font-weight: bold;
   }
@@ -209,7 +209,7 @@ body {
   
   .mapa {
     padding: 3em 0;
-    background: linear-gradient( rgb(255, 255, 255), rgb(191, 245, 111));
+    background: linear-gradient( rgb(255, 255, 255), rgb(183, 189, 176));
   }
   
   .mapa-conteudo {
