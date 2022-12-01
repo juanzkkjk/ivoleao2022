@@ -139,7 +139,7 @@ body {
     width: 40%;
     padding: 15px 0;
     background: rgb(21, 2, 73);
-    color: rgb(14, 95, 27);
+    color: rgb(245, 248, 245);
     font-weight: bold;
     font-size: 18px;
     border: none;
@@ -149,7 +149,7 @@ body {
   }
   
   .enviar:hover {
-    background: rgb(125, 146, 125);
+    background: rgb(5, 85, 5);
     transform: rotate(360deg) scale(1.2);
   }
   
