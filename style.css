@@ -68,7 +68,7 @@ body {
    }
   
   .produtos li:active {
-      border-color: rgb(2, 8, 2);
+      border-color: rgb(170, 173, 170);
   }
   
   .produtos li:hover h2 {
@@ -166,7 +166,7 @@ body {
   }
   
   td, th {
-    border: 1px solid #dad6d6;
+    border: 1px solid #000000;
     padding: 8px 15px;
   }
   
