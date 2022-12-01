@@ -10,7 +10,7 @@ body {
   }
   
   header {
-      background: rgb(252, 250, 248);
+      background: rgb(0, 0, 0);
       padding: 20px 0;
   }
   
@@ -160,8 +160,8 @@ body {
   }
   
   thead {
-    background: rgb(61, 40, 8);
-    color: black;
+    background: rgb(219, 219, 219);
+    color: rgb(97, 85, 85);
     font-weight: bold;
   }
   
