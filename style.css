@@ -10,7 +10,7 @@ body {
   }
   
   header {
-      background: rgb(133, 96, 40);
+      background: rgb(66, 46, 15);
       padding: 20px 0;
   }
   
@@ -34,7 +34,7 @@ body {
   
    nav a {
       text-transform: uppercase;
-      color: black;
+      color: rgb(255, 255, 255);
       font-weight: bold;
       font-size: 22px;
       text-decoration: none;    
