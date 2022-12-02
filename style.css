@@ -10,7 +10,7 @@ body {
   }
   
   header {
-      background: rgb(66, 46, 15);
+      background: rgb(0, 0, 0);
       padding: 20px 0;
   }
   
@@ -64,7 +64,7 @@ body {
    }
   
    .produtos li:hover {
-      border-color: rgb(255, 136, 0);
+      border-color: rgb(150, 82, 4);
    }
   
   .produtos li:active {
@@ -160,8 +160,8 @@ body {
   }
   
   thead {
-    background: royalblue;
-    color: black;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-weight: bold;
   }
   
